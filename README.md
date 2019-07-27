@@ -1,2 +1,2 @@
-# Instrument_Recognition_in_Songs
+# Instrument Recognition in Songs using Deep CNNs
 DSP Project @ ECE NTUA 2019
