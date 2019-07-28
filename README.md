@@ -3,7 +3,7 @@ DSP Project @ ECE NTUA 2019
 
 Instrument Classification:
 
--Part1: Preprocessing of the dataset in 1sec snippets.
+-Part1: Preprocessing the dataset in 1sec snippets.
 
 -Part2: CNN architecture & training the network
 
