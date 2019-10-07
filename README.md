@@ -7,7 +7,7 @@ Instrument Classification:
 
 -Part2: CNN architecture & training the network
 
--Part3: Track prediction
+-Part4: Track prediction
 
 
-Download Dataset from: https://zenodo.org/record/1290750#.XT2wRegzZPZ
+Download IRMAS Dataset from: https://zenodo.org/record/1290750#.XT2wRegzZPZ
