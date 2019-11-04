@@ -1,13 +1,5 @@
-# Instrument Classification in Songs using Deep CNNs
-DSP Project @ ECE NTUA 2019
+# Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music
 
-Instrument Classification:
+By: Agelos Kratimenos, Kleanthis Avramidis, Christos Garoufis, Athanasia Zlatintsi, and Petros Maragos
 
--Part1: Preprocessing the dataset in 1sec snippets.
-
--Part2: CNN architecture & training the network
-
--Part4: Track prediction
-
-
-Download IRMAS Dataset from: https://zenodo.org/record/1290750#.XT2wRegzZPZ
+This is the official implementation code of paper: *Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music* in Tensorflow.
