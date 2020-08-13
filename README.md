@@ -3,6 +3,7 @@
 By: *[Agelos Kratimenos](https://github.com/agelosk), [Kleanthis Avramidis](https://github.com/klean2050), [Christos Garoufis](https://github.com/cgaroufis), [Athanasia Zlatintsi](https://github.com/daedmoon), and Petros Maragos*
 
 This is the official Tensorflow2 implementation code of the paper:
+
 Kratimenos, A., Avramidis, K., Garoufis, C., Zlatintsi, A., & Maragos, P. (2019). Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music. arXiv preprint arXiv:1911.12505.
 
 ## Abstract
