@@ -1,8 +1,8 @@
 # Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music
 
-By: *[Agelos Kratimenos](https://github.com/agelosk), [Kleanthis Avramidis](https://github.com/klean2050), [Christos Garoufis](https://github.com/cgaroufis), [Athanasia Zlatintsi](https://github.com/daedmoon), and Petros Maragos*
+By *[Agelos Kratimenos](https://github.com/agelosk), [Kleanthis Avramidis](https://github.com/klean2050), [Christos Garoufis](https://github.com/cgaroufis), [Athanasia Zlatintsi](https://github.com/daedmoon), and Petros Maragos*
 
-<img class="center" src="pipe.jpg">
+<img align="middle" src="pipe.jpg">
 
 This is the official implementation code of the paper:
 
