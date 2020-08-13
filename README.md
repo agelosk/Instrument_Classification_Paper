@@ -2,7 +2,7 @@
 
 By: *[Agelos Kratimenos](https://github.com/agelosk), [Kleanthis Avramidis](https://github.com/klean2050), [Christos Garoufis](https://github.com/cgaroufis), [Athanasia Zlatintsi](https://github.com/daedmoon), and Petros Maragos*
 
-<img src="pipe.jpg"> <img src="pipe.jpg">
+<img style="float: center;" src="pipe.jpg">
 
 This is the official implementation code of the paper:
 
