@@ -3,7 +3,7 @@
 <img align="center" src="pipe.jpg">
 
 <p align="center">
-    <img src="pipe.jpg" alt="Image" width="400" height="600" />
+    <img src="pipe.jpg" alt="Image" width="800" height="400" />
 </p>
 
 This is the official implementation code of the paper:
