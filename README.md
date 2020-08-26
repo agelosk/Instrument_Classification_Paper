@@ -1,7 +1,5 @@
 # Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music
 
-<img align="center" src="pipe.jpg">
-
 <p align="center">
     <img src="pipe.jpg" alt="Image" width="600" height="250" />
 </p>
