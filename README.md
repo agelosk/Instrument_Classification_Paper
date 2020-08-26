@@ -4,6 +4,7 @@ This is the official implementation code of the paper:
 
 * *[Kratimenos, A.](https://github.com/agelosk), [Avramidis, K.](https://github.com/klean2050), [Garoufis, C.](https://github.com/cgaroufis), [Zlatintsi, A.](https://github.com/daedmoon), & Maragos, P. (2019). Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music. arXiv preprint arXiv:1911.12505.*
 
+
 <p align="center">
     <img src="pipe.jpg" alt="Image" width="600" height="250" />
 </p>
